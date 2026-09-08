@@ -1,0 +1,15 @@
+# Kritova
+
+> AI solutions company based in Troy, Michigan. Kritova builds AI-driven products for real businesses across automation, fitness, hospitality, and other industries — engineered by Kritovians, a volunteer community of students, professionals, interns, and job-seekers who apprentice on real client projects in small pods mentored by experienced engineers ("Masters").
+
+## What this page offers
+
+- Custom AI solutions for automation, fitness, hospitality, and new verticals
+- Kritova AI: an assistant in active development, built on a retrieval-augmented generation (RAG) architecture — hybrid retrieval, reranking, and grounded generation
+- The Kritovian community: evening/weekend apprenticeships where contributors ship real, deployed products
+- A four-stage delivery pipeline: Discover, Build, Deploy, Iterate — every project must reach real users
+
+## Contact
+
+- Business inquiries: hello@kritova.com
+- Kritovian applications: join@kritova.com
